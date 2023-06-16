@@ -1,6 +1,6 @@
 <h1>Hi, I'm Curtis! <br/><a href="https://www.linkedin.com/in/curtis-g-osbey-iii-4b183315b/"> Information Technology and Cybersecurity Professional</a></h1>
 
-<h2>👨‍💻 Cybersceurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Active Directory Lab</b>
 <!-- - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice) -->
