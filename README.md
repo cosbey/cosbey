@@ -3,7 +3,12 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <a href="https://github.com/cosbey/incidentreports">Incident Reports</a>
+  - Example IR reports for various attacks and network breaches
 <!-- - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice) -->
+
+<h2> :page_with_curl: Education: Computer and Information Systems, BA - Champlain College</h2>
+          
+  
 
 <h2> :page_with_curl: Certifications:</h2>
 
