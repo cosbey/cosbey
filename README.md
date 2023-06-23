@@ -9,7 +9,7 @@
 <h2> :page_with_curl: Education: <a href="https://www.parchment.com/u/award/b9486e253d359b34ae723ab8ec31fe94">Computer and Information Systems, BA - Champlain College</a></h2>
 
 <ul>
-  <li>Routing and Switching</li>
+  <li><a href="https://github.com/cosbey/routing-and-switching">Routing and Switching</a></li>
   <li>Linux Administration</li>
   <li>SQL</li>
   <li>Python</li>
