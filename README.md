@@ -14,6 +14,8 @@
   <li>SQL</li>
   <li>Python</li>
   <li>HTML/CSS</li>
+  <li>Virtualization</li>
+  <li>Cloud</li>
 </ul>
 
           
