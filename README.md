@@ -10,7 +10,7 @@
 
 <ul>
   <li><a href="https://github.com/cosbey/routing-and-switching">Routing and Switching</a></li>
-  <li>Linux Administration</li>
+  <li><a href="https://github.com/cosbey/linux-admin">Linux Administration</a></li>
   <li>SQL</li>
   <li>Python</li>
   <li>HTML/CSS</li>
