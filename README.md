@@ -4,6 +4,8 @@
 
 - <a href="https://github.com/cosbey/incidentreports">Incident Reports</a>
   - Example IR reports for various attacks and network breaches
+ 
+- <a href="https://github.com/cosbey/linux-admin/tree/main/Security/Linux%20OS%20Hardening%20-%20File%20Permissions">Linux OS Hardening - File Permissions</a>
 <!-- - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice) -->
 
 <h2> :page_with_curl: Education: <a href="https://www.parchment.com/u/award/b9486e253d359b34ae723ab8ec31fe94">Computer and Information Systems, BA - Champlain College</a></h2>
