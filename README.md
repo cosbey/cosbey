@@ -8,13 +8,21 @@
   - Managing and Authorizing File/Directory privileges in the Linux environment
 <!-- - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice) -->
 
-<h2> :page_with_curl: Education: <a href="https://www.parchment.com/u/award/b9486e253d359b34ae723ab8ec31fe94">Computer and Information Systems, BA - Champlain College</a></h2>
+<h2> :school: Education: </h2>
+<a href="https://www.parchment.com/u/award/b9486e253d359b34ae723ab8ec31fe94">Computer and Information Systems, BA - Champlain College</a>
 
+<h2>:page_with_curl:Skills and Experience:</h2>
 <ul>
   <li><a href="https://github.com/cosbey/routing-and-switching">Routing and Switching</a></li>
   <li><a href="https://github.com/cosbey/linux-admin">Linux Administration</a></li>
   <li><a href="https://github.com/cosbey/SQL">SQL</a></li>
   <li>Python</li>
+  <li>Security Tools</li>
+    <ul>
+      <li>Wireshark</li>
+      <li>TCPDump</li>
+      <li>Nmap</li>
+    </ul>
   <li>HTML/CSS</li>
   <li>Virtualization</li>
   <li>Cloud</li>
