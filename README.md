@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <a href="https://github.com/cosbey/incidentreports">Incident Reports</a>
-  - Example IR reports for various attacks and network breaches
+  - Example IR reports for various attacks and incidents
 - <a href="https://github.com/cosbey/linux-admin/tree/main/Security/Linux%20OS%20Hardening%20-%20File%20Permissions">Linux OS Hardening - File Permissions</a>
   - Managing and Authorizing File/Directory privileges in the Linux environment
 <!-- - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice) -->
