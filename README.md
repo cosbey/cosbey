@@ -3,10 +3,10 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <a href="https://github.com/cosbey/incidentreports">Incident Reports</a>
-  - Example IR reports for various attacks and incidents
-- <a href="https://github.com/cosbey/linux-admin/tree/main/Security/Linux%20OS%20Hardening%20-%20File%20Permissions">Linux OS Hardening - File Permissions</a>
-  - Managing and Authorizing File/Directory privileges in the Linux environment
-- <a>Auditing a database and security logs with SQL</a>
+  - Example IR reports for various events and incidents
+- <a href="https://github.com/cosbey/linux-admin/tree/main/Security/Linux%20OS%20Hardening%20-%20File%20Permissions">Linux OS Hardening - Authorization and File Permissions</a>
+  - Managing File/Directory privileges in the Linux environment
+- <a>Auditing a Database with SQL</a>
   - Performing SQL queries to retrieve information from a database
   - Applying `AND`, `OR`, and `NOT` operators to filter SQL queries
 <!-- - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice) -->
