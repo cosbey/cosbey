@@ -6,7 +6,7 @@
   - Example IR reports for various events and incidents
 - <a href="https://github.com/cosbey/linux-admin/tree/main/Security/Linux%20OS%20Hardening%20-%20File%20Permissions">Linux OS Hardening - Authorization and File Permissions</a>
   - Managing File/Directory privileges in the Linux environment
-- <a>Auditing a Database with SQL</a>
+- <a href= "https://github.com/cosbey/SQL/blob/main/Data%20Retrieval/Project%20-%20Auditing%20security%20incidents%20with%20SQL/README.md">Auditing security incidents with SQL</a>
   - Performing SQL queries to retrieve information from a database
   - Applying `AND`, `OR`, and `NOT` operators to filter SQL queries
 <!-- - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice) -->
