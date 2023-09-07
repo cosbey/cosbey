@@ -26,9 +26,9 @@
       <li><a href="https://github.com/cosbey/tcpdump">tcpdump</li>
       <li>Nmap</li>
     </ul>
-  <li>Incident Reports and Documents</li>
+  <li>Incident Reports and Documentation</li>
     <ul>
-      <li><a href="https://github.com/cosbey">My Incident Handler's Journal<li>
+      <li><a href="https://github.com/cosbey">My Incident Handler's Journal</li>
     </ul>
   <li>HTML/CSS</li>
   <li>Virtualization</li>
