@@ -28,7 +28,7 @@
     </ul>
   <li>Incident Reports and Documentation</li>
     <ul>
-      <li><a href="https://github.com/cosbey">My Incident Handler's Journal</li>
+      <li><a href="https://docs.google.com/document/d/1eoH05XfhHIf8ylZz05J6d6B9gbk_goAw/edit?usp=sharing&ouid=115347439251393536117&rtpof=true&sd=true">My Incident Handler's Journal</li>
     </ul>
   <li>HTML/CSS</li>
   <li>Virtualization</li>
