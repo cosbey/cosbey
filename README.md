@@ -12,7 +12,7 @@
 <!-- - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice) -->
 
 <h2> :school: Education: </h2>
-<a href="https://www.parchment.com/u/award/b9486e253d359b34ae723ab8ec31fe94">Computer and Information Systems, BA - Champlain College</a>
+<a href="https://www.parchment.com/u/award/b9486e253d359b34ae723ab8ec31fe94">Computer and Information Systems, BS - Champlain College</a>
 
 <h2>:page_with_curl:Skills and Experience:</h2>
 <ul>
