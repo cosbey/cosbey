@@ -2,8 +2,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <a href="https://github.com/cosbey/incidentreports/blob/main/ddos%20attack.md">Incident Report - DDoS</a>
-  - Example IR report for a Distributed Denial of Service incident
+- <a href="https://github.com/cosbey/python/blob/main/Automation%20and%20Scripting/Project%20-%20Update%20a%20file%20through%20a%20Python%20algorithm.md">Update a file through a Python algorithm</a>
+  - Parsing a file to read and update the contents
+  - Automate process of parsing and updating log file
 - <a href="https://github.com/cosbey/linux-admin/tree/main/Security/Linux%20OS%20Hardening%20-%20File%20Permissions">Linux OS Hardening - Authorization and File Permissions</a>
   - Managing File/Directory privileges in the Linux environment
 - <a href= "https://github.com/cosbey/SQL/blob/main/Data%20Retrieval/Project%20-%20Auditing%20security%20incidents%20with%20SQL/README.md">Auditing security incidents with SQL</a>
