@@ -12,10 +12,10 @@
   - Applying `AND`, `OR`, and `NOT` operators to filter SQL queries
 <!-- - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice) -->
 
-<h2> :school: Education: </h2>
+<h2>Education: </h2>
 <a href="https://www.parchment.com/u/award/b9486e253d359b34ae723ab8ec31fe94">Computer and Information Systems, BS - Champlain College</a>
 
-<h2>:page_with_curl:Skills and Experience:</h2>
+<h2>Skills and Experience:</h2>
 <ul>
   <li><a href="https://github.com/cosbey/routing-and-switching">Routing and Switching</a></li>
   <li><a href="https://github.com/cosbey/linux-admin">Linux Administration</a></li>
@@ -39,9 +39,10 @@
           
   
 
-<h2> :page_with_curl: Certifications:</h2>
+<h2>Certifications:</h2>
 
-- <a href="https://www.credly.com/badges/3a89db7e-e319-4bc2-a0e1-e7a66ab02426/linked_in?t=s29klo"> Google Cybersecurity Professional Certification</a>
+- <a href="https://www.credly.com/badges/3a89db7e-e319-4bc2-a0e1-e7a66ab02426/linked_in?t=s29klo">Google Cybersecurity Professional Certification</a>
+- <a href="https://www.credly.com/badges/9d9c9b7b-c3b1-4b47-9e06-8615e3a961e0/public_url"> ISC2: Certified In Cybersecurity</a>
 - <a href="https://www.credly.com/badges/d8e529b4-83cf-42c5-8f11-cbd809ce5642/public_url">CompTIA A+</a>
 - <a href="https://www.credly.com/badges/f710d457-be2f-4d98-8a34-cbda9ef6df4c/linked_in_profile">CompTIA Network+</a>
 - <a href="https://www.credly.com/badges/40b04fa9-2376-4c77-9475-2fd9845a2024/linked_in_profile">CompTIA IT Operations Specialist</a>
