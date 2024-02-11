@@ -45,13 +45,16 @@
 - <a href="https://www.credly.com/badges/9d9c9b7b-c3b1-4b47-9e06-8615e3a961e0/public_url"> ISC2: Certified In Cybersecurity</a>
 - <a href="https://www.credly.com/badges/d8e529b4-83cf-42c5-8f11-cbd809ce5642/public_url">CompTIA A+</a>
 - <a href="https://www.credly.com/badges/f710d457-be2f-4d98-8a34-cbda9ef6df4c/linked_in_profile">CompTIA Network+</a>
+- <a href="https://www.credly.com/badges/e6d061ed-9df8-42a3-ab18-59ea2bfc05ba/linked_in?t=s8184c">CompTIA Security+</a>
 - <a href="https://www.credly.com/badges/40b04fa9-2376-4c77-9475-2fd9845a2024/linked_in_profile">CompTIA IT Operations Specialist</a>
+- <a href="https://www.credly.com/badges/ac6c4922-cb79-4b84-a054-aff0694cf27d/linked_in?t=s818az">CompTIA Secure Infrastructure Specialist (CSIS)</a>
+
 
 
 
 <h2>🔭 I’m currently working on</h2>
 
-- <a href="https://www.comptia.org/certifications/security"> CompTIA Security+</a>
+- <a href="https://www.comptia.org/certifications/cybersecurity-analyst"> CompTIA CYSA+</a>
 
 <h2> 🤳 Connect with me:</h2>
 
